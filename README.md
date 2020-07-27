@@ -25,11 +25,14 @@ author: '<YOUR-NAME>'
 **Replace this line with your content!**
 ```
 4. Start writing!
-5. Once you're done,
+5. If you need to add images, upload those images in the `public` folder with the name of your markdown file, and an image name. For example,
+`<year>-<date>-<month>-<your-blog-title>-image1.jpg`
+
+6. Once you're done,
     - `git add .`
     - `git commit -m "blog: <blog-title>"`
     - `git push origin master`
-6. Make a  Pull Request with the same name as the commit message.
+7. Make a  Pull Request with the same name as the commit message.
 
 Wait for few hours to see your blog published on DrawPI!
 
