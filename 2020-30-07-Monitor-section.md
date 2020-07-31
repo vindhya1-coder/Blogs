@@ -1,3 +1,7 @@
+Title: Monitor Section
+Date : 2020-30-07
+Author : Vindhya Srivastava
+
 # Monitor Section In DrawPI
 
 ![](RackMultipart20200730-4-n4agyn_html_f63c190bde2629a3.png)
