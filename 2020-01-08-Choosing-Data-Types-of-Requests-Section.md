@@ -1,6 +1,8 @@
+---
 Title: Choosing Data Types of  Requests Section
 Date:2020-01-08
 Author:Vindhya Srivastava
+---
 # Choosing Data Types of Requests Section
 
 DrawPI is on it&#39;s way to bring revulsion in the world of APIs and Backend. All the continuous efforts in bringing the Idea of creating backends without coding in frame optimising is in place.
@@ -9,7 +11,7 @@ This website will allow the user to build API(Application program Interface) in 
 
 The ones who are working on projects, models, aspiring to perform front-end development or planning to do something like this that certainly involves APIs to deal with the data management will find this as an amazing platform .
 
-![](RackMultipart20200720-4-1ciwcqf_html_a07ba975e32eb4e0.png)
+![][Imgur](https://i.imgur.com/VqQiZp2.png)
 
 ## This blog will pave your way to create APIs in minutes !!
 
@@ -25,8 +27,7 @@ APIs often support JSON bodies to exchange data between script and pages with se
 
 Now here it is important to note that there are two keys (_object key and string key_ ) offered while adding a function in DrawPI. Now it&#39;s always a blithe to have two options for one task, but definitely one works the best and other as rest. Here , DrawPI particularly suggests choosing an Object key with any of your desired names to add key.
 
-![](RackMultipart20200720-4-1ciwcqf_html_57db56bbcbf3f92e.png)
-
+![]([Imgur](https://i.imgur.com/VFgGT2s.png)
 \&gt; String key helps to find , replace and delete data in your module.
 
 Object keys can take any name , but while making requests the keys inside this key should have the same name as attributes in the schema to which they will interact.
