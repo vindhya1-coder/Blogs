@@ -6,7 +6,7 @@ Author : Vindhya Srivastava
 
 # Monitor Section In DrawPI
 
-![](RackMultipart20200730-4-n4agyn_html_f63c190bde2629a3.png)
+![]([Imgur](https://i.imgur.com/VqQiZp2.png)
 
 To Monitor is to observe and keep the track of the ongoing progress of the project or work being done.
 
@@ -34,7 +34,7 @@ In case there are some errors in the call then that will also be visible for the
 
 So in this way you can easily keep the track of the number of requests made of the API projects made in a week on the right pane of the monitor screen .
 
-![](RackMultipart20200730-4-n4agyn_html_af1ef81a368effbc.png)
+![]([Imgur](https://i.imgur.com/VFgGT2s.png)
 
 **Monitor Screen**
 
