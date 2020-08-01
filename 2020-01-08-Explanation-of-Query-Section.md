@@ -1,6 +1,8 @@
+---
 Title:Explanation of Query Section
 Date:2020-01-08
 Author:Vindhya Srivastava
+---
 # Explanation of Query Section
 
 [DrawPI](https://drawpi.com/) aims to provide the best possible way of building API to those enthusiastic formulators who are working under any project or hold the potential to work under such projects where API are needed to organise their data .
