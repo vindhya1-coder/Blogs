@@ -19,7 +19,7 @@ So let&#39;s take a drive in the DB schema screen!!!
 
 The created screen will look like this below.
 
-![](RackMultipart20200717-4-14ryi6_html_c41b6f8d41af24d0.gif)
+![]([Imgur](https://i.imgur.com/aSjubJT.png))
 
 There is by default an auto incremented primary key in the schema **id unique auto increment ,** hence the users are not required to increment using API.
 
