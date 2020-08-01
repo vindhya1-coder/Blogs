@@ -2,8 +2,8 @@
 Title:Introduction of DB Schema
 Date: 2020-01-08
 Author:Vindhya Srivastava
-### Introduction of DB Schema
 ---
+### Introduction of DB Schema
 
 ## Greeting Folks,
 
