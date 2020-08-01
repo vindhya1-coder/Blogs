@@ -7,7 +7,7 @@ Author:Vindhya Srivastava
 
 [DrawPI](https://drawpi.com/) aims to provide the best possible way of building API to those enthusiastic formulators who are working under any project or hold the potential to work under such projects where API are needed to organise their data .
 
-![](RackMultipart20200721-4-ygbxih_html_57b4e7ec8c536fcf.png)
+![]([Imgur](https://i.imgur.com/QgYKA5q.png))
 
 Time to have an in-depth knowledge of one parameter featured in APIs. Before that let&#39;s have a look on what API Parameter is all about!!!
 
@@ -17,7 +17,7 @@ Parameters are known as variable parts of a resource , which means that it ident
 
 The people who want to build API are required to choose the parameter they want for their endpoint.
 
-![](RackMultipart20200721-4-ygbxih_html_5ea443a7627560d7.png)
+![]([Imgur](https://i.imgur.com/QFV0qSj.png))
 
 There are mainly four categories of Parameter , we are here to discuss &#39;Query Parameter &#39; in detail.
 
@@ -27,7 +27,7 @@ These parameters are supposed to be the most common parameter that appears at th
 
 In nutshell, Query Parameter acts as an extension to your resource locator that will enable you to define the performance of the data being passed.
 
-![](RackMultipart20200721-4-ygbxih_html_4037bacb4b0ebbf9.png)
+![][Imgur](https://i.imgur.com/u1XG3iJ.png)
 
 Now in DrawPI, the query parameter is defined under the details column .
 
@@ -35,7 +35,7 @@ You will find an option to add key &#39;+key&#39; under the query block which is
 
 The screen is displayed below.
 
-![](RackMultipart20200721-4-ygbxih_html_aff0450bcce9c280.png)
+![]([Imgur](https://i.imgur.com/meciPZA.png)
 
 Let&#39;s take an example!
 
