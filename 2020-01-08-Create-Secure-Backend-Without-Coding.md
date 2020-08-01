@@ -17,7 +17,7 @@ Let&#39;s find out!
 
 It uses TCP (Transmission control protocol) to channelise the data on the web. The url address is found to be http :// which simply allows communication with other devices. What exactly happens is that when a client requests any message to the server it replies with a response message such as HTTP/1.1 200 OK.
 
-![](RackMultipart20200724-4-1uteod8_html_b4bd0ddd12c98261.png)
+![]([Imgur](https://i.imgur.com/LKu51b2.png)
 
 Figure 1: HyperText Transfer Protocol
 
@@ -25,13 +25,12 @@ Figure 1: HyperText Transfer Protocol
 
 We communicate on the internet from one computer to another ,sharing data, confidential information , private and public documents which demands supreme security from cyberattacks . The elemental aim of HTTPS is to provide authentication of the accessed website .Hyper text includes hyperlink to connect with other resources by clicking the link.
 
-![](RackMultipart20200724-4-1uteod8_html_ed5b802c1173d0c4.png)
-
+![]([Imgur](https://i.imgur.com/ZO4Nrtr.png)
 Figure 2: HyperText Transfer Protocol Secure
 
 \&gt; The simple,basic and direct difference between HTTP and HTTPS is that the latter is considered to provide secured and authentic communication as the data is encrypted before sending in https and not in http.
 
-![](RackMultipart20200724-4-1uteod8_html_8d02d9f237b8f574.png)
+![]([Imgur](https://i.imgur.com/rVTEdYq.png)
 
 Figure 3: Difference Between HTTP and HTTPS
 
