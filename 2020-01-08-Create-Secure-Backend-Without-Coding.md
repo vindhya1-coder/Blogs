@@ -1,9 +1,10 @@
 ---
-Title:Create Secure Backend Without Coding
-Date:2020-01-08
-Author: Vindhya Srivastava
+title: 'Create Secure Backend Without Coding'
+date: '2020-01-08'
+author: 'Vindhya Srivastava'
 ---
-### **Create Secure Backend Without Coding**
+
+# Create Secure Backend Without Coding
 
 ## Protocol
 
@@ -11,13 +12,13 @@ _Network protocols claim to connect devices to communicate and transmit data bas
 
 The internet users also come across the terms like HTTP and HTTPS frequently. Since , we meet these terms on the internet time and again, a basic knowledge of the difference between them and how they work will be relevant to know .
 
-Let&#39;s find out!
+Let's find out!
 
 ### HTTP stands for (HyperText Transfer Protocol) .
 
 It uses TCP (Transmission control protocol) to channelise the data on the web. The url address is found to be http :// which simply allows communication with other devices. What exactly happens is that when a client requests any message to the server it replies with a response message such as HTTP/1.1 200 OK.
 
-![]([Imgur](https://i.imgur.com/LKu51b2.png)
+![Imgur](https://i.imgur.com/LKu51b2.png)
 
 Figure 1: HyperText Transfer Protocol
 
@@ -25,16 +26,16 @@ Figure 1: HyperText Transfer Protocol
 
 We communicate on the internet from one computer to another ,sharing data, confidential information , private and public documents which demands supreme security from cyberattacks . The elemental aim of HTTPS is to provide authentication of the accessed website .Hyper text includes hyperlink to connect with other resources by clicking the link.
 
-![]([Imgur](https://i.imgur.com/ZO4Nrtr.png)
+![Imgur](https://i.imgur.com/ZO4Nrtr.png)
 Figure 2: HyperText Transfer Protocol Secure
 
 \&gt; The simple,basic and direct difference between HTTP and HTTPS is that the latter is considered to provide secured and authentic communication as the data is encrypted before sending in https and not in http.
 
-![]([Imgur](https://i.imgur.com/rVTEdYq.png)
+![Imgur](https://i.imgur.com/rVTEdYq.png)
 
 Figure 3: Difference Between HTTP and HTTPS
 
-## Create a secure Backend without Coding !!!!
+## Create a secure Backend without Coding!!!!
 
 ### Sounds Interesting??
 
