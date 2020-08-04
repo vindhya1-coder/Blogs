@@ -1,12 +1,12 @@
 ---
-Title: Monitor Section
-Date : 2020-30-07
-Author : Vindhya Srivastava
+Title: 'Monitor Section'
+Date : '2020-30-07'
+Author : 'Vindhya Srivastava'
 ---
 
 # Monitor Section In DrawPI
 
-![]([Imgur](https://i.imgur.com/VqQiZp2.png)
+![Imgur](https://i.imgur.com/VqQiZp2.png)
 
 To Monitor is to observe and keep the track of the ongoing progress of the project or work being done.
 
@@ -34,7 +34,7 @@ In case there are some errors in the call then that will also be visible for the
 
 So in this way you can easily keep the track of the number of requests made of the API projects made in a week on the right pane of the monitor screen .
 
-![]([Imgur](https://i.imgur.com/VFgGT2s.png)
+![Imgur](https://i.imgur.com/VFgGT2s.png)
 
 **Monitor Screen**
 
