@@ -3,29 +3,29 @@ Title : An Introduction To Create Screen
 Date: 2020-01-08
 Author: Vindhya Srivastava
 ---
-#An Introduction to Create Screen
+# An Introduction to Create Screen
 
 ![]([Imgur](https://i.imgur.com/8RtiVEN.jpg))
 
-&quot; **API in minutes&quot;****!! **_** Doesn&#39;t it sound amazing?**_
+&quot;**API in minutes&quot;!! **_** Doesn&#39;t it sound amazing?**_
 
 **DrawPI** aims to bring this amazing work in frame through this Website.
 
 [Drawpi.com](https://drawpi.com/) is a website that lets you build, and host a custom, back-end without coding.
 
-![]([Imgur](https://i.imgur.com/QgYKA5q.png)
+![Imgur](https://i.imgur.com/QgYKA5q.png)
 
 To begin with, the first and foremost step is to create a screen in which you can build,work and explore the creative section of APIs. The steps are easy and fluent to undertake.
 
 ## So lets start!!!
 
-First you need to sign in to the website to get acquainted with your dashboard where you will find the options, to access, on the left . Clicking on &#39; **Create&#39;** option will take you to a Project Screen that will refer to a backend.
+First you need to sign in to the website to get acquainted with your dashboard where you will find the options, to access, on the left . Clicking on &#39;**Create&#39;** option will take you to a Project Screen that will refer to a backend.
 
 The project dialog box that appears on screen will work forward by clicking on **&#39;+Create&#39;** option which will start hosting your backend live with your username (eg. - projectname.drawpi.com). Name your Project.
 
 [Note: **API backend** is a way for developers to link their software and application to cloud-based storage, making it easier to link up with software development kits and **APIs**]
 
-\&gt; Related post: [https://nordicapis.com/why-you-should-build-apps-with-an-api-backend-baas/#:~:text=Also%20often%20called%20Mobile%20Backend,software%20development%20kits%20and%20APIs.](https://nordicapis.com/why-you-should-build-apps-with-an-api-backend-baas/#:~:text=Also%20often%20called%20Mobile%20Backend,software%20development%20kits%20and%20APIs.)
+Related post: [https://nordicapis.com/why-you-should-build-apps-with-an-api-backend-baas/#:~:text=Also%20often%20called%20Mobile%20Backend,software%20development%20kits%20and%20APIs.](https://nordicapis.com/why-you-should-build-apps-with-an-api-backend-baas/#:~:text=Also%20often%20called%20Mobile%20Backend,software%20development%20kits%20and%20APIs.)
 
 Now it&#39;s time to create collections that will organise your endpoints and keep them structured, it is required to have at least one collection in card. You are again required to give a nice name to your collections.
 
@@ -37,7 +37,7 @@ And it&#39;s done,you have created your DB schema to build further APIs.
 
 On the left of your dashboard you will find a section of details in which the method and URL is to be chosen . The by default method is **GET.** Name the endpoint that you desire to be live on API.
 
-![]([Imgur](https://i.imgur.com/OJ3j71U.png)
+![Imgur](https://i.imgur.com/OJ3j71U.png)
 
 SCHEMA SCREEN
 
