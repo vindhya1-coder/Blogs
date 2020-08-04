@@ -10,7 +10,7 @@ Author : 'Vindhya Srivastava'
 
 To Monitor is to observe and keep the track of the ongoing progress of the project or work being done.
 
-DrawPI intern a section named Monitor that is used to scrutinize the real-time logs coming up of the requests being made to your backend projects.
+DrawPI has a section named Monitor that is used to scrutinize the real-time logs coming up of the requests being made to your backend projects.
 
 The DrawPI [Monitor Screen](https://drawpi.com/monitor) is fundamentally divided into two panes where the subsections are mentioned .
 
