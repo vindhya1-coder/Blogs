@@ -31,7 +31,7 @@ _Your project can have multiple tables as per your requirement._
 
 # Time to add [Endpoints](https://smartbear.com/learn/performance-monitoring/api-endpoints/#:~:text=Simply%20put%2C%20an%20endpoint%20is,of%20a%20server%20or%20service.&amp;text=The%20place%20that%20APIs%20send,lives%2C%20is%20called%20an%20endpoint)!!
 
-![](RackMultipart20200717-4-14ryi6_html_ea61cd223e546db8.gif)
+![Imgur](https://i.imgur.com/VtWVZGz.png)
 
 - Come to the right most section of the creation screen, under the details dropdown, and select the method and URL. This will let your API to host live.
 
@@ -44,5 +44,3 @@ You can use any desired name for your object key.
 So with this your DB schema screen is perfectly created and ready for execution!!
 
 You can easily access the above mentioned step and can experience building APIs in minutes . All you need to do is go to [https://drawpi.com/](https://drawpi.com/) and witness your own DB schema Screen.
-
-![](RackMultipart20200717-4-14ryi6_html_6c943c55b475f090.gif)
