@@ -62,7 +62,3 @@ Go look at your DB schema now.
 Take out every word that doesn&#39;t contribute something new.
 
 Come back here and tell us about the before-and-after. I bet you&#39;ll have something to say!
-
-![](RackMultipart20200715-4-15lebwf_html_7707c90f6499fb21.png)
-
-![](RackMultipart20200715-4-15lebwf_html_c8462353b5058e5f.gif)
